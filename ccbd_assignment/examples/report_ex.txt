@@ -1,0 +1,8 @@
+['forest.jpg', 'forest', 0.0]
+['forest.jpg', 'forest', 0]
+['forest.jpg', 'forest', 0]
+['forest.jpg', 'forest', 0]
+['forest.jpg', 'forest', 0]
+['forest.jpg', 'forest', 100]
+['forest.jpg', 'forest', 56]
+['forest.jpg', 'forest', 0]
